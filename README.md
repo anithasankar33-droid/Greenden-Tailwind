@@ -80,7 +80,7 @@ npm run dev
 
 ### 📞 Contact Page
 
-![Contact Page](images/screenshots/contect.png)
+![Contact Page](images/screenshots/contact.png)
 
 ---
 
