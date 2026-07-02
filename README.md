@@ -73,15 +73,14 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Green plant shop homepage showing navigation links, a search bar, featured plant cards, and a light minimal background that conveys a fresh welcoming storefront](home.png.png)
-
+![Home Page](screenshots/home.png)
 ### 🛍️ Product Page
 
-![Product page with a grid of plant listings showing images and prices, a left sidebar of filter options, and a clean modern interface for browsing plants](screenshots/product.png)
+![Product Page](screenshots/product.png)
 
 ### 📞 Contact Page
 
-![Contact page showing a calm form layout with heading contact us, name email and message fields, and a soft green accent that feels approachable and user friendly](screenshots/contact.png)
+![Contact Page](screenshots/contact.png)
 
 ---
 
@@ -99,8 +98,7 @@ npm run dev
 
 **Anitha S**
 
-GitHub: https://github.com/anithasankar33-droid
-
+GitHub:https://github.com/anithasankar33-droid
 ---
 
 ## ⭐ Support
