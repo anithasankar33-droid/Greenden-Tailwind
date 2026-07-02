@@ -73,14 +73,14 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](images/screenshots/home.png)
 ### 🛍️ Product Page
 
-![Product Page](screenshots/product.png)
+![Product Page](images/screenshots/product.png)
 
 ### 📞 Contact Page
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](images/screenshots/contect.png)
 
 ---
 
