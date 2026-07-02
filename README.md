@@ -1,16 +1,108 @@
-# React + Vite
+# 🌿 Greenden – Plant E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Greenden is a responsive plant e-commerce website built using **HTML**, **Tailwind CSS**, and **Vite**. It provides a modern and user-friendly interface for browsing plants, searching products, and contacting the store.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🌱 Responsive design for desktop and mobile
+- 🏠 Attractive Home page
+- 🛍️ Product page with plant listings
+- 🔍 Search functionality
+- 📞 Contact page
+- ⚡ Fast and lightweight UI using Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML5
+- Tailwind CSS
+- JavaScript
+- Vite
+
+---
+
+## 📁 Project Structure
+
+```
+Greenden/
+│── public/
+│── src/
+│── images/
+│── index.html
+│── product.html
+│── contact.html
+│── package.json
+│── vite.config.js
+│── README.md
+```
+
+---
+
+## ▶️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/anithasankar33-droid/Greenden-Tailwind.git
+```
+
+Go to the project folder:
+
+```bash
+cd Greenden-Tailwind
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Green plant shop homepage showing navigation links, a search bar, featured plant cards, and a light minimal background that conveys a fresh welcoming storefront](home.png.png)
+
+### 🛍️ Product Page
+
+![Product page with a grid of plant listings showing images and prices, a left sidebar of filter options, and a clean modern interface for browsing plants](screenshots/product.png)
+
+### 📞 Contact Page
+
+![Contact page showing a calm form layout with heading contact us, name email and message fields, and a soft green accent that feels approachable and user friendly](screenshots/contact.png)
+
+---
+
+## 📌 Future Improvements
+
+- Shopping Cart
+- User Login
+- Wishlist
+- Payment Integration
+- Backend Database
+
+---
+
+## 👩‍💻 Author
+
+**Anitha S**
+
+GitHub: https://github.com/anithasankar33-droid
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **⭐ Star** this repository.
